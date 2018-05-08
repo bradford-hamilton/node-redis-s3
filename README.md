@@ -1,2 +1,1 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+##### Caching with node/redis/mongo for reference. Express project cloned from [AdvancedNodeStarter](https://github.com/StephenGrider/AdvancedNodeStarter). Added caching with redis.
