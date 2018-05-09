@@ -1,1 +1,1 @@
-##### Caching with node/redis/mongo for reference. Express project cloned from [AdvancedNodeStarter](https://github.com/StephenGrider/AdvancedNodeStarter). Added caching with redis.
+##### Caching, integration testing, CI, and scalable image/file upload with node for reference. Express project cloned from [AdvancedNodeStarter](https://github.com/StephenGrider/AdvancedNodeStarter). Added caching with Redis, testing with Jest/Puppeteer, CI with Travis CI, and image uploads using S3.
